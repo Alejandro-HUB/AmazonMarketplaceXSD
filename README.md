@@ -1,9 +1,10 @@
-My Description:
+## My Description:
 Amazon does not want to share all their available XSDs, therefore, I have gone to the effort of obtaining all the individual links for all the XSDs (most of them are not listed on the website...) and I found a repository of someone that had corrected the XSDs that have duplicate types, etc.
 
 Repository that I forked and edited from Westie: https://github.com/Westie/AmazonMarketplaceXSD
 
-Westie's description: "Since Amazon is an absolute horror show when it comes to collating all XSDs into a bunch that actually works, I have gone to the effort of downloading all of them (most of them aren't actually listed on the website...) and corrected the XSDs that have duplicate types, etc."
+## Westie's description: 
+"Since Amazon is an absolute horror show when it comes to collating all XSDs into a bunch that actually works, I have gone to the effort of downloading all of them (most of them aren't actually listed on the website...) and corrected the XSDs that have duplicate types, etc."
 
 Hope this is of help.
 
